@@ -1,5 +1,5 @@
-# Project-Athena
-New machine learning project for SSW 695.
+# Project-Artemis
+New machine learning project.
 
 You need a Python version lower than 3.8 for TensorFlow 1
 
